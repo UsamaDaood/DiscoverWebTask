@@ -25,6 +25,6 @@ The File structure is following,
 
 [**Android Demo Video**](https://drive.google.com/file/d/1sx8Ko_jxh2Y66zw3Ot_IcQGJwbPiSXik/view?usp=sharing)
 
-### For iOS demo (Vide)
+### For iOS demo (Video)
 
 [**IOS Demo Video**](https://drive.google.com/file/d/1xD-5dpWSFc1e2XbsRwrPyGmbCnl96Ues/view?usp=sharing)
